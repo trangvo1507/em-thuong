@@ -12,22 +12,12 @@
             "settings": {
                 "terminal.integrated.fontFamily": "MesloLGS NF",
                 "workbench.colorTheme": "Default Dark Modern",
-                "workbench.iconTheme": "material-icon-theme",
-                "workbench.productIconTheme": "material-product-icons",
-                "[python]": {
-                    "editor.rulers": [
-                        88
-                    ]
-                },
-                "[cpp]": {
-                    "editor.rulers": [
-                        80
-                    ]
-                }
+                "workbench.iconTheme": "helium-icon-theme"
             },
             "extensions": [
                 "chekweitan.compare-view",
                 "eriklynd.json-tools",
+                "helgardrichard.helium-icon-theme",
                 "mechatroner.rainbow-csv",
                 "medo64.render-crlf",
                 "ms-azuretools.vscode-docker",
@@ -35,8 +25,6 @@
                 "ms-python.python",
                 "ms-python.vscode-pylance",
                 "ms-toolsai.jupyter",
-                "PKief.material-icon-theme",
-                "PKief.material-product-icons",
                 "rioj7.command-variable"
             ]
         }
